@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NAV BAR</title>
+	<style type="text/css">
+		li span a
+		{ background-image:linear-gradient( to right red pink)
+
+		}
+	li
+	{
+		display: inline;
+		font-size: 30px;
+		font-weight: bolder; 
+	}
+	</style>
+</head>
+<body>
+	<div class="mdiv">
+		<div class="NAV">
+		<ul>
+			<li><span><a href="xyz">HOME</a></span></li>
+			<li><span><a href="abc">CONTACT</a></span></li>
+			<li><span><a href="pqr">EMAIL</a></span></li>
+			<li><span><a href="uvw">LOGIN</a></span></li>
+
+		</ul>
+	</div>
+</div>
+
+</body>
+</html>
